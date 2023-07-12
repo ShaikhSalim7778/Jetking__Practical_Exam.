@@ -1,0 +1,17 @@
+Demonstrate the installation process of Truffle suite and display
+the current version of Truffle installed in your computer.
+
+
+1. Open terminal or command prompt.
+
+2. Install truffle globlly by runing the following command:
+	
+	npm install -g truffle
+
+3. Wait for installation
+
+4. After installation verify the insalled veersion of truffle by running followinng command.
+
+	truffle version
+
+5. The terminal should display the current version.

@@ -1,0 +1,29 @@
+Demonstrate the process of unboxing metacoin project and
+explore the project structure by explaining the items briefly.
+
+
+1.	Open terminal or command prompt.
+
+2.	create a new directory to unbox the MetaCoin project, and navigate to the directory in the terminal.
+
+3.	run the following command to unbox the MetaCoin project.
+		
+		truffle unbox mertacoin
+
+4.	truffle will download the metacoin project template and setup the basic project structure.
+
+
+		Once the unboxing process is complate, find the following items in the metacoin project structure:
+
+
+	01. 'contracts/'
+
+	02. 'migrations/'
+
+	03. 'test/'
+
+	04. 'truffle-config.js'
+	
+	05. 'build/'
+
+	06. 'README.md'
